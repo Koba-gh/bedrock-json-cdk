@@ -1,0 +1,23 @@
+PC Name: Gaming Beast X9000
+Specifications:
+- CPU: Intel Core i9-13900K
+- RAM: 64GB DDR5-6000
+- Storage: 2TB NVMe SSD
+- Graphics Card: NVIDIA RTX 4090
+- Motherboard: ASUS ROG Maximus Z790 Hero
+- Power Supply: Corsair RM1000x 1000W
+- Cooling: NZXT Kraken X73 RGB 360mm AIO
+- Case: Lian Li O11 Dynamic EVO
+
+Monitor Details:
+- Model: LG UltraGear 32GQ950
+- Size: 32 inches
+- Resolution: 3840x2160 (4K UHD)
+- Refresh Rate: 144Hz
+- Panel Type: Nano IPS
+- Response Time: 1ms GTG
+
+Peripherals:
+- Keyboard: Logitech G915 TKL
+- Mouse: Logitech G Pro X Superlight
+- Headset: SteelSeries Arctis Pro Wireless
